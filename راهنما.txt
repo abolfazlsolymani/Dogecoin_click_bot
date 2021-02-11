@@ -1,0 +1,36 @@
+اموزش نصب :
+
+فایل account.json را حتما ادیت کنید
+
+
+نصب در ترموکس:
+
+pkg update && pkg upgrade
+pkg install python
+pip install --upgrade pip
+termux-setup-storage
+cd /storage/emulated/0/roko
+pip install -r requirements.txt
+python roko.py
+
+نصب در ویندوز:
+
+پایتون را از سایت ( python.org )
+دانلود کنید و نصب کنید اموزش نصب تو گوگل هست
+
+سپس cmd را باز کنید
+
+pip install --upgrade pip
+
+
+بعد از تکمیل مراحل بالا مجددا  نرم افزار خط فرمان cmd ویندوز را اجرا کنید و دستورات زیر را به ترتیب وارد کنید و کلید اینتر را بزنید :
+
+d:
+cd roko
+pip install -r requirements.txt
+python roko.py 
+
+چنل ما :
+@ROko_tm
+@roko_py
+@Roko_source

@@ -1,2 +1,2 @@
-# Dogecoin_click_bot
+@Dogecoin_click_bot
 @Litecoin_click_bot
